@@ -12,3 +12,4 @@ B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\refint\sistema_estacionament
 B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.pdb
 B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.genruntimeconfig.cache
 B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\ref\sistema_estacionamento.dll
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.sourcelink.json
