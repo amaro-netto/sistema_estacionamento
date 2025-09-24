@@ -1,6 +1,9 @@
 # Desafio Estacionamento
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET 9.0](https://img.shields.io/badge/.NET-9.0-512BD4?labelColor=172B4D&style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
 
 ---
 
@@ -22,7 +25,7 @@ Este projeto é um sistema de gerenciamento de estacionamento em console, desenv
 ### ⚙️ **Tecnologias Utilizadas**
 
 - C#
-- .NET 6.0
+- .NET 9.0
 
 ### 📁 **Estrutura do Projeto**
 
