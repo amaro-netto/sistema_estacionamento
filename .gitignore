@@ -1,0 +1,18 @@
+# Exclui arquivos de compilação e pastas temporárias
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.log
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.userprefs
+.vs/
+.history/
+.vscode/
+
+# Exclui pacotes e caches do NuGet
+[Pp]ackages/
+*.nupkg
