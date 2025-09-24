@@ -1,0 +1,14 @@
+B:\Projetos\sistema_estacionamento\bin\Debug\net9.0\sistema_estacionamento.exe
+B:\Projetos\sistema_estacionamento\bin\Debug\net9.0\sistema_estacionamento.deps.json
+B:\Projetos\sistema_estacionamento\bin\Debug\net9.0\sistema_estacionamento.runtimeconfig.json
+B:\Projetos\sistema_estacionamento\bin\Debug\net9.0\sistema_estacionamento.dll
+B:\Projetos\sistema_estacionamento\bin\Debug\net9.0\sistema_estacionamento.pdb
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.AssemblyInfoInputs.cache
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.AssemblyInfo.cs
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.csproj.CoreCompileInputs.cache
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.dll
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\refint\sistema_estacionamento.dll
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.pdb
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\sistema_estacionamento.genruntimeconfig.cache
+B:\Projetos\sistema_estacionamento\obj\Debug\net9.0\ref\sistema_estacionamento.dll
