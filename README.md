@@ -1,9 +1,8 @@
 # Desafio Estacionamento
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET 9.0](https://img.shields.io/badge/.NET-9.0-512BD4?labelColor=172B4D&style=for-the-badge&logo=dotnet&logoColor=white)
 
----
+##
 
 ### **Índice**
 
@@ -14,7 +13,7 @@
 - [💻 Como Usar a Aplicação](#-como-usar-a-aplicação)
 - [✅ Conclusão](#-conclusão)
 
----
+##
 
 ### 📝 **Descrição do Projeto**
 
@@ -53,7 +52,7 @@ O programa principal exibe um menu interativo com as seguintes opções:
 
 ### 👥 **Equipe do Projeto**
 <a href="https://github.com/amaro-netto" title="Amaro Netto"><img width="180" src="https://github.com/user-attachments/assets/b7a3a1bf-304a-4974-b75f-1d620ad6ecf1"/></a>
----
+##
 
 ### ✅ **Conclusão**
 
